@@ -1,0 +1,14 @@
+.toolbar{
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgba(50,150,130,0.7);
+  box-shadow: 1px 1px 10px 2px #3a5f5f;
+  border-bottom: 1px solid black;
+}
+i{
+  color:white;
+}
+i:hover{
+  color:black;
+}
